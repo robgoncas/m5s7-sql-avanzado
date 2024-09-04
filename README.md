@@ -1,6 +1,4 @@
-Claro, a continuación te presento el contenido en formato Markdown con la estructura y el lenguaje técnico solicitados.
 
----
 
 # Consultas SQL Avanzadas
 
